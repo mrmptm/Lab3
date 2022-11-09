@@ -1,0 +1,7 @@
+../Core/Src/button.c:13:6:button1_reading	8	static
+../Core/Src/button.c:27:6:button2_reading	8	static
+../Core/Src/button.c:53:6:button3_reading	8	static
+../Core/Src/button.c:60:5:button1_pressed	4	static
+../Core/Src/button.c:64:5:button2_pressed	4	static
+../Core/Src/button.c:67:5:button2_pressed_1s	4	static
+../Core/Src/button.c:71:5:button3_pressed	4	static

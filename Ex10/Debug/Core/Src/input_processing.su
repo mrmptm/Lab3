@@ -1,0 +1,14 @@
+../Core/Src/input_processing.c:63:6:fsm_for_input_processing	8	static
+../Core/Src/input_processing.c:410:6:update_led_buffer1	16	static
+../Core/Src/input_processing.c:415:6:update_led_buffer2	16	static
+../Core/Src/input_processing.c:419:6:Switch7SEGLEDIndex	4	static
+../Core/Src/input_processing.c:426:6:update7SEG	16	static
+../Core/Src/input_processing.c:445:6:displayMode	16	static
+../Core/Src/input_processing.c:450:6:loadLedTempDuration	16	static
+../Core/Src/input_processing.c:464:6:increaseTempDur	16	static
+../Core/Src/input_processing.c:484:6:updateDuration	16	static
+../Core/Src/input_processing.c:498:6:display7SEGMode1	8	static
+../Core/Src/input_processing.c:526:6:displaySingleLedsMode1	8	static
+../Core/Src/input_processing.c:562:6:trafficLightCount	16	static
+../Core/Src/input_processing.c:586:6:turnOffSingleLed	8	static
+../Core/Src/input_processing.c:596:6:ledBlinking	16	static
